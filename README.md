@@ -55,7 +55,7 @@ Mageni is an important open source contribution to the upstream projects as it p
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmageni%2Fmageni.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmageni%2Fmageni?ref=badge_large)
 
 ## Legal
-If you have questions about the GPL license, copyrights law, DMCA, applicable laws, our DMCA designated agent, and other legal stuff. Please <a href="https://github.com/mageni#legal-copyrights-dmca-and-fair-use">go to our legal section on GitHub</a>
+If you have questions about the GPL license, copyrights law, DMCA, applicable laws, our DMCA designated agent, and other legal stuff. Please <a href="https://github.com/mageni#fair-use-%EF%B8%8F">go to our legal section on GitHub</a>
 
 ---
 
